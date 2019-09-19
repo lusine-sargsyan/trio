@@ -1,0 +1,11 @@
+C:\Users\user\documents\trio\trio\obj\Debug\netcoreapp2.1\trio.csprojAssemblyReference.cache
+C:\Users\user\documents\trio\trio\obj\Debug\netcoreapp2.1\trio.csproj.CoreCompileInputs.cache
+C:\Users\user\documents\trio\trio\obj\Debug\netcoreapp2.1\trio.AssemblyInfoInputs.cache
+C:\Users\user\documents\trio\trio\obj\Debug\netcoreapp2.1\trio.AssemblyInfo.cs
+C:\Users\user\documents\trio\trio\bin\Debug\netcoreapp2.1\trio.deps.json
+C:\Users\user\documents\trio\trio\bin\Debug\netcoreapp2.1\trio.runtimeconfig.json
+C:\Users\user\documents\trio\trio\bin\Debug\netcoreapp2.1\trio.runtimeconfig.dev.json
+C:\Users\user\documents\trio\trio\bin\Debug\netcoreapp2.1\trio.dll
+C:\Users\user\documents\trio\trio\bin\Debug\netcoreapp2.1\trio.pdb
+C:\Users\user\documents\trio\trio\obj\Debug\netcoreapp2.1\trio.dll
+C:\Users\user\documents\trio\trio\obj\Debug\netcoreapp2.1\trio.pdb
